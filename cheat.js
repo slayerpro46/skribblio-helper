@@ -123,4 +123,4 @@ class Cheat {
 }
 
 // Change the server URI and turn on / off the DRUCKBETANKUNG's modus
-let cheato = new Cheat('https://localhost:3000/', false);
+let cheato = new Cheat('https://localhost:3000/', true);
